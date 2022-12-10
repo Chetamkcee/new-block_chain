@@ -1,0 +1,11 @@
+.city {
+    align-content:center;
+    position: relative;
+    background-color: tomato;
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}

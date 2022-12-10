@@ -1,0 +1,19 @@
+body{
+    background-image: url(../image/workplace.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 0%;
+}
+
+.city {
+    background-image: url( images);
+    align-content:center;
+    position: relative;
+    background-color: tomato;
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
